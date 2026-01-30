@@ -2,6 +2,7 @@ Name: ASUQUO DAVID
 Matric Number: 22CD032117
 Machine Learning Algorithm Used: Logistic Regression
 Model persistence method used: joblib
-Live URL of the hosted application: https://breastcancerprojectogbeidesamuel22cd032172-qilve9xa56n8epdne9f.streamlit.app/
+Live URL of the hosted application: https://breast-cancer-project-fymq.onrender.com
 
 GitHub repository link:https://github.com/Kuchile/Breast-Cancer-Project/tree/main/BreastCancer_Project_ASUQUODAVID_22CD032117-main
+
